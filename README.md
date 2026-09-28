@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Antony Kimeu
 
-<!--
-**phantom458-hub/phantom458-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning economics and statistics at The University of Nairobi.
+- I'm interested in AI, web development, and deep analysis data science.
+- I'm looking to collaborate on beginner-friendly open source projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Java Script, HTML and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Project name](link) — short description
+
+## How to Reach Me
+- Email: antonykim458@gmail.com.
+- LinkedIn: [your LinkedIn profile link]
